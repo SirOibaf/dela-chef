@@ -35,3 +35,4 @@ default['dela']['http_admin_port']	     = 42014
 default['dela']['hops']['storage']['type'] 	   = "HDFS"
 default['dela']['hops']['library']['type'] 	   = "DISK"
 
+default['dela']['enabled'] = "true"
